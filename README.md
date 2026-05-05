@@ -13,9 +13,14 @@ Elite Apple is a modern, responsive website designed to showcase Apple iPhones w
 
 
 Homepage
+![Homepage](Homepage.jpeg)
+
 Product Section
-Features/Details Section
+![Product](product.jpeg)
+
 Any interactive elements
+![Contacts](contacts.jpeg)
+
 
 (Tip: Take screenshots from your live site and paste them in your PDF)
 
