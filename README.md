@@ -16,7 +16,7 @@ Homepage
 ![Homepage](Homepage.jpeg)
 
 Product Section
-![Product](product.jpeg)
+![Product](Product.jpeg)
 
 Any interactive elements
 ![Contacts](contacts.jpeg)
